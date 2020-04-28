@@ -1,5 +1,5 @@
 #VERSION: 1.4
-#AUTHORS: mauricci
+#AUTHORS: mauricci, metroid2010
 
 from helpers import retrieve_url
 from helpers import download_file, retrieve_url
@@ -14,7 +14,7 @@ except ImportError:
     from HTMLParser import HTMLParser
     
 class mejor(object):
-    url = 'http://www.mejortorrent.org'
+    url = 'http://www.mejortorrentt.org'
     name = 'MejorTorrent'
     supported_categories = {'all': '0'}
     
