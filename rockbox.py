@@ -13,7 +13,7 @@ from helpers import retrieve_url, download_file
 
 
 class psychocydd(object):
-    url = "https://rawkbawx.rocks"
+    url = "http://rawkbawx.rocks"
     name = "RockBox"
     supported_categories = {'all': 'all',
                             'music': 'music',
